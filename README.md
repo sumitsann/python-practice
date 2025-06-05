@@ -63,16 +63,8 @@ Contributions are welcome! If you have suggestions for improvements, new example
 
 Alternatively, you can open an issue with the tag "enhancement" or "bug".
 
-*(If you are not looking for contributions, you can remove this section or state that contributions are not currently being accepted.)*
 
-## License
 
-*(It's good practice to add a license. If you haven't chosen one, you might consider something simple like the MIT License. If you do, create a `LICENSE` file in your repository and link to it here.)*
-
-Example:
-Distributed under the MIT License. See `LICENSE` for more information.
-
-*(If you don't want to add a license now, you can remove this section or state "No license specified".)*
 
 ## Contact
 
