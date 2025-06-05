@@ -7,7 +7,6 @@ A collection of Python scripts and examples aimed at practicing and understandin
 * [Covered Topics](#covered-topics)
 * [How to Use](#how-to-use)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 
 ## Covered Topics
